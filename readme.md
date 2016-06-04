@@ -1,1 +1,4 @@
-Alright finally I am beginning to build this thing. Later on I will have to do things in assembly.
+# Namecard
+
+## Not everyone wants to use Facebook to interact. Too personal.
+So here we can just exchange namecards professionally and interact within safe confines of privacy.
